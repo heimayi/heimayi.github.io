@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-21T09:21:41.427Z</updated>
+  <updated>2019-02-25T09:21:41.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,16 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>first.md</title>
-    <link href="http://yoursite.com/2019/02/21/first-md/"/>
-    <id>http://yoursite.com/2019/02/21/first-md/</id>
+    <title>为快捷方式设置快捷键及更改图标样式</title>
+    <link href="http://yoursite.com/2019/02/21/%E4%B8%BA%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E8%AE%BE%E7%BD%AE%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%8F%8A%E6%9B%B4%E6%94%B9%E5%9B%BE%E6%A0%87%E6%A0%B7%E5%BC%8F/"/>
+    <id>http://yoursite.com/2019/02/21/为快捷方式设置快捷键及更改图标样式/</id>
     <published>2019-02-21T09:21:41.000Z</published>
-    <updated>2019-02-21T09:21:41.427Z</updated>
+    <updated>2019-02-25T09:21:41.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="用鼠标右击要设置快捷键的项目，在弹出的菜单中选择“属性”选项"><a href="#用鼠标右击要设置快捷键的项目，在弹出的菜单中选择“属性”选项" class="headerlink" title="用鼠标右击要设置快捷键的项目，在弹出的菜单中选择“属性”选项"></a>用鼠标右击要设置快捷键的项目，在弹出的菜单中选择“属性”选项</h2><img src="/2019/02/21/为快捷方式设置快捷键及更改图标样式/1.png"><h2 id="在弹出的“属性”对话框中单击切换到“快捷方式”选项卡"><a href="#在弹出的“属性”对话框中单击切换到“快捷方式”选项卡" class="headerlink" title="在弹出的“属性”对话框中单击切换到“快捷方式”选项卡"></a>在弹出的“属性”对话框中单击切换到“快捷方式”选项卡</h2><img src="/2019/02/21/为快捷方式设置快捷键及更改图标样式/2.png"><h2 id="在快捷键文本框中直接按所要设定的快捷键即可。例如，要设定快捷键为“Alt-Ctrl-D”，可先单击该文本框，直接按“Alt”键和字母“D”键即可。"><a href="#在快捷键文本框中直接按所要设定的快捷键即可。例如，要设定快捷键为“Alt-Ctrl-D”，可先单击该文本框，直接按“Alt”键和字母“D”键即可。" class="headerlink" title="在快捷键文本框中直接按所要设定的快捷键即可。例如，要设定快捷键为“Alt+Ctrl+D”，可先单击该文本框，直接按“Alt”键和字母“D”键即可。"></a>在快捷键文本框中直接按所要设定的快捷键即可。例如，要设定快捷键为“Alt+Ctrl+D”，可先单击该文本框，直接按“Alt”键和字母“D”键即可。</h2><img src="/2019/02/21/为快捷方式设置快捷键及更改图标样式/3.png"><h2 id="如果要更换项目图标，则在其属性对话框的快捷方式选项卡中，单击“更改图标”按钮。"><a href="#如果要更换项目图标，则在其属性对话框的快捷方式选项卡中，单击“更改图标”按钮。" class="headerlink" title="如果要更换项目图标，则在其属性对话框的快捷方式选项卡中，单击“更改图标”按钮。"></a>如果要更换项目图标，则在其属性对话框的快捷方式选项卡中，单击“更改图标”按钮。</h2><img src="/2019/02/21/为快捷方式设置快捷键及更改图标样式/4.png"><h2 id="在弹出的对话框中选择图标样式，然后单击“确定”按钮。"><a href="#在弹出的对话框中选择图标样式，然后单击“确定”按钮。" class="headerlink" title="在弹出的对话框中选择图标样式，然后单击“确定”按钮。"></a>在弹出的对话框中选择图标样式，然后单击“确定”按钮。</h2><img src="/2019/02/21/为快捷方式设置快捷键及更改图标样式/5.png"><h2 id="返回属性对话框，可以看到文件图标已经发生变化，最后单击“确定”按钮即可。"><a href="#返回属性对话框，可以看到文件图标已经发生变化，最后单击“确定”按钮即可。" class="headerlink" title="返回属性对话框，可以看到文件图标已经发生变化，最后单击“确定”按钮即可。"></a>返回属性对话框，可以看到文件图标已经发生变化，最后单击“确定”按钮即可。</h2><img src="/2019/02/21/为快捷方式设置快捷键及更改图标样式/6.png"><h2 id="返回电脑桌面，这时我们按刚才设置的快捷键，即可打开相关项目。"><a href="#返回电脑桌面，这时我们按刚才设置的快捷键，即可打开相关项目。" class="headerlink" title="返回电脑桌面，这时我们按刚才设置的快捷键，即可打开相关项目。"></a>返回电脑桌面，这时我们按刚才设置的快捷键，即可打开相关项目。</h2>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;h2 id=&quot;用鼠标右击要设置快捷键的项目，在弹出的菜单中选择“属性”选项&quot;&gt;&lt;a href=&quot;#用鼠标右击要设置快捷键的项目，在弹出的菜单中选择“属性”选项&quot; class=&quot;headerlink&quot; title=&quot;用鼠标右击要设置快捷键的项目，在弹出的菜单中选择“属性”选项&quot;&gt;
+      
+    
     </summary>
     
+      <category term="windows" scheme="http://yoursite.com/categories/windows/"/>
+    
+      <category term="bat" scheme="http://yoursite.com/categories/windows/bat/"/>
+    
+    
+      <category term="windows" scheme="http://yoursite.com/tags/windows/"/>
+    
+      <category term="bat" scheme="http://yoursite.com/tags/bat/"/>
     
   </entry>
   
