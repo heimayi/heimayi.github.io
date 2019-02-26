@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-02-25T09:21:41.000Z</updated>
+  <updated>2019-02-25T07:47:43.184Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>zabbix</title>
+    <link href="http://yoursite.com/2019/02/25/zabbix/"/>
+    <id>http://yoursite.com/2019/02/25/zabbix/</id>
+    <published>2019-02-25T07:39:33.000Z</published>
+    <updated>2019-02-25T07:47:43.184Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li>zabbix 模板集合<br><a href="https://monitoringartist.github.io/zabbix-searcher" target="_blank" rel="noopener">https://monitoringartist.github.io/zabbix-searcher</a><br><a href="https://zabbix.org/wiki/Zabbix_Templates" target="_blank" rel="noopener">https://zabbix.org/wiki/Zabbix_Templates</a></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ol&gt;
+&lt;li&gt;zabbix 模板集合&lt;br&gt;&lt;a href=&quot;https://monitoringartist.github.io/zabbix-searcher&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://monitoringartist
+      
+    
+    </summary>
+    
+      <category term="zabbix" scheme="http://yoursite.com/categories/zabbix/"/>
+    
+    
+      <category term="zabbix" scheme="http://yoursite.com/tags/zabbix/"/>
+    
+  </entry>
   
   <entry>
     <title>为快捷方式设置快捷键及更改图标样式</title>
